@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1{color: beige;
+background-color: darkslateblue;}
+h2{color: beige;
+background-color: darkslateblue;}
+ul{color: beige;
+background-color: lightpink;}
+p {
+	color:darkslategrey;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightcoral;
+	padding: 20px;
+}
+.paragraf_2 {color: darkcyan;background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok{background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin: 20px;
+	width: auto
+		
+h2active {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; 
+	color: darkcyan}
+
+span {color:rgb(255, 0, 255);}
+
+	body {background-image: url("unnamed.jpg")
+
+a:link {
+	color: white;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: white;
+	padding: 20px;
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color:darkgray;
+	}
+img {
+	height: 200px;
+	
+}
